@@ -32,6 +32,13 @@ wget -m -N --header='Accept-Encoding: gzip' --ftp-user=income --ftp-password='sd
 
  
 -H - Enable spanning across hosts when doing recursive retrieving. 
+
+Additional options 
+
+-q - Turn off wget's output
+
+--show-progress - Force wget to display the progress bar no matter what its verbosity level is set to.
+
 ```
 
 
