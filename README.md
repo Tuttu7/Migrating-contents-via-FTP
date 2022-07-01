@@ -8,7 +8,7 @@ wget -m --user="username" --password='Password' ftp://serverIP/*
 Alternate command 
 
 ```
-wget -m -N --header='Accept-Encoding: gzip' --ftp-user=user --ftp-password='password' -nH -P /home/user/public_html ftp://74.55.164.66:/
+wget -m -N --header='Accept-Encoding: gzip' --ftp-user=user --ftp-password='password' -nH -P /home/user/public_html ftp://serverIP:/
 ```
 
 
